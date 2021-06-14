@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/hacker-news-search/static/css/main.04ea8e26.chunk.css",
+    "main.js": "/hacker-news-search/static/js/main.dc56d6f7.chunk.js",
+    "main.js.map": "/hacker-news-search/static/js/main.dc56d6f7.chunk.js.map",
+    "runtime-main.js": "/hacker-news-search/static/js/runtime-main.1e9e38ba.js",
+    "runtime-main.js.map": "/hacker-news-search/static/js/runtime-main.1e9e38ba.js.map",
+    "static/js/2.604d07ce.chunk.js": "/hacker-news-search/static/js/2.604d07ce.chunk.js",
+    "static/js/2.604d07ce.chunk.js.map": "/hacker-news-search/static/js/2.604d07ce.chunk.js.map",
+    "index.html": "/hacker-news-search/index.html",
+    "static/css/main.04ea8e26.chunk.css.map": "/hacker-news-search/static/css/main.04ea8e26.chunk.css.map",
+    "static/js/2.604d07ce.chunk.js.LICENSE.txt": "/hacker-news-search/static/js/2.604d07ce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e9e38ba.js",
+    "static/js/2.604d07ce.chunk.js",
+    "static/css/main.04ea8e26.chunk.css",
+    "static/js/main.dc56d6f7.chunk.js"
+  ]
+}
